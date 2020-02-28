@@ -1,0 +1,12 @@
+<suite name="test">
+    <test name = "test">
+<!--        <packages>-->
+<!--            <package name="">-->
+<!--            </package>-->
+<!--        </packages>-->
+        <classes>
+            <class name="MyFirstPageFactoryNG"></class>
+        </classes>
+    </test>
+
+</suite>

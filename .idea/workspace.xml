@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2254301a-a113-4942-a4af-830e270449c9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YGVGHqIUjnmvxLYufQf7loYXC1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/.." />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG./home/reemo/Documents/Coding/SeleniumAssignment/testng.xml">
+    <configuration name="MyFirstPageFactoryNG.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumAssignment" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MyFirstPageFactoryNG" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyFirstPageFactoryNG.testCase01" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumAssignment" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MyFirstPageFactoryNG" />
+      <option name="METHOD_NAME" value="testCase01" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCase05.testCase05" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumAssignment" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestCase05" />
+      <option name="METHOD_NAME" value="testCase05" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCase10.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumAssignment" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestCase10" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/home/reemo/Documents/Coding/SeleniumAssignment/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumAssignment" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./home/reemo/Documents/Coding/SeleniumAssignment/testng.xml" />
+        <item itemvalue="TestNG.MyFirstPageFactoryNG.test" />
+        <item itemvalue="TestNG.MyFirstPageFactoryNG.testCase01" />
+        <item itemvalue="TestNG.TestCase05.testCase05" />
+        <item itemvalue="TestNG.TestCase10.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2254301a-a113-4942-a4af-830e270449c9" name="Default Changelist" comment="" />
+      <created>1582568820130</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582568820130</updated>
+      <workItem from="1582568823072" duration="17333000" />
+      <workItem from="1582600069907" duration="1606000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="349" y="19" width="1200" height="1004" key="#Project_Structure" timestamp="1582581514081">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="349" y="19" width="1200" height="1004" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1582581514081" />
+    <state x="0" y="173" width="1709" height="840" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1582578011899">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="173" width="1709" height="840" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582578011899" />
+    <state width="1847" height="247" key="GridCell.Tab.0.bottom" timestamp="1582601677928">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1847" height="247" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582601677928" />
+    <state width="1847" height="247" key="GridCell.Tab.0.center" timestamp="1582601677927">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1847" height="247" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582601677927" />
+    <state width="1847" height="247" key="GridCell.Tab.0.left" timestamp="1582601677927">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1847" height="247" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582601677927" />
+    <state width="1847" height="247" key="GridCell.Tab.0.right" timestamp="1582601677928">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1847" height="247" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582601677928" />
+    <state x="256" y="14" width="1386" height="1014" key="Maven.ArtifactSearchDialog" timestamp="1582600187479">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="256" y="14" width="1386" height="1014" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582600187479" />
+    <state x="469" y="270" key="com.intellij.ide.util.TipDialog" timestamp="1582600084444">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="469" y="270" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582600084444" />
+    <state x="415" y="0" width="1069" height="1040" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1582594190354">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="415" y="0" width="1069" height="1040" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1582594190354" />
+    <state x="450" y="228" key="run.anything.popup" timestamp="1582594772198">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="450" y="228" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1582594772198" />
+  </component>
+</project>
